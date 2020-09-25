@@ -22,5 +22,5 @@ Don't think lot just replace the capital X on line 42 with the last number on yo
 
 
 ### Deploying to server
-The code is already made to be directly use in servers, just to the 'Important Setup' instructions properly and than you can deply it to your server.<br/>
+The code is already made to be directly use in servers, just do the 'Important Setup' instructions properly and than you can deploy it to your server.<br/>
 I am not writing how to deploy on specific server providers as they already have very good documentations on there website, just follow that <br/>
