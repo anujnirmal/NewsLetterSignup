@@ -39,7 +39,7 @@ app.post("/", function(req, res){
     
     const jsonData = JSON.stringify(data);
 
-    const url = "https://us2.api.mailchimp.com/3.0/lists/5db01d2e0f";
+    const url = "https://usX.api.mailchimp.com/3.0/lists/yourAudienceCode";
 
     const options = {
         method: "POST",
@@ -75,8 +75,4 @@ app.listen(process.env.PORT || 3000, function(){
 });
 
 
-//ApiKey
-// b5bf2daabaa7a58ad9bf605fb0e9a614-us2
 
-// Audience Id 
-//5db01d2e0f
