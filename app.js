@@ -43,7 +43,7 @@ app.post("/", function(req, res){
 
     const options = {
         method: "POST",
-        auth: "anuj:b5bf2daabaa7a58ad9f605fb0e9a614-us2"
+        auth: "anyname:yourapikey"
 
     }
 
